@@ -12,7 +12,7 @@ It finds the nearest base color of given color from the given base color list.
 <pre>
     "964b00"   //Brown
     "000000"   //Black
-    "403d3f"   //smoked (Turksih : Füme )
+    "403d3f"   //smoked (Turkish : Füme )
     "808080"   //Gray
     "f5f5dc"   //Beige (Turkish : Bej )
     "ffffff"   //White
