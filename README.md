@@ -1,4 +1,4 @@
-# Color Palette&nbsp;
+# Round Color&nbsp;
 
 It finds the nearest base color of given color from the given base color list.
 
