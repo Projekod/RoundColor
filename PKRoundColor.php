@@ -10,7 +10,7 @@ class PKRoundColor {
     protected $baseColors = array(
         "964b00",   //Brown
         "000000",   //Black
-        "403d3f",   //smoked (Turksih : Füme )
+        "403d3f",   //smoked (Turkish : Füme )
         "808080",   //Gray
         "f5f5dc",   //Beige (Turkish : Bej )
         "ffffff",   //White
