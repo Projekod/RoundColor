@@ -15,7 +15,7 @@ class PKRoundColorTest extends PHPUnit_Framework_TestCase {
     }
     
     /**
-     * -
+     *
      * @dataProvider provider
      */
     public function testgetRoundedColor($values) {
