@@ -37,6 +37,13 @@ class PKRoundColor {
         }
     }
 
+    public function setBaseColors($baseColors){
+        $this->baseColors = array();
+        foreach($baseColors as $baseColor) {
+            $this->addBaseColor($baseColor);
+        }
+    }
+
     public function getRoundedColor($color){
         if($this->checkHexColor($color)){
             $rgbColor = $this->hex2rgb($color,true);
